@@ -15,3 +15,5 @@ open your root project, then run
 or with php built in server
 
 ```php -S localhost:8000 -t .```
+
+access your basic crud on `http://localhost:8000`
